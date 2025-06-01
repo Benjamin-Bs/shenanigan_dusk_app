@@ -1,0 +1,7 @@
+{
+  "name": "shenanigan_dusk_app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
